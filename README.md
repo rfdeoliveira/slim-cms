@@ -9,7 +9,7 @@ A simple CMS REST API implementation using decoupled PHP libraries.
 
 * [Composer](https://getcomposer.org/download/)
 
-* [SQLite3](https://www.sqlite.org/download.html) 
+* [SQLite3](https://www.sqlite.org/download.html)  (Make sure you have pdo_sqlite extension in your PHP)
 
 
 ## Installation
