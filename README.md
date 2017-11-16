@@ -16,7 +16,7 @@ A simple CMS REST API implementation using decoupled PHP libraries.
 
 Clone this repository and `cd` in it: 
 
-`$ git clone https://https://github.com/rfdeoliveira/slim-cms.git cms`
+`$ git clone https://github.com/rfdeoliveira/slim-cms.git cms`
 
 `$ cd cms`
 
