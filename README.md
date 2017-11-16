@@ -45,3 +45,5 @@ That's it! Now you can:
 * Update a Post making a `PUT` request to `/posts/{id}` with `title`, `body` and `path`
 
 * Delete a Post making a `DELETE` request to `/posts/{id}`
+
+* Access a Blog Post sending a `GET` request to `/blog/{path}`. Example: `/blog/path-to-my-post`
