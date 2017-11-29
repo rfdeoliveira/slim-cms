@@ -2,6 +2,8 @@
 
 A simple CMS REST API implementation using decoupled PHP libraries.
 
+[![Build Status](https://travis-ci.org/rfdeoliveira/slim-cms.svg?branch=master)](https://travis-ci.org/rfdeoliveira/slim-cms)
+
 
 ### Requirements
 
